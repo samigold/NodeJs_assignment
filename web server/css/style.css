@@ -1,0 +1,87 @@
+*{
+    box-sizing: border-box;
+}
+
+h1{
+    color:orange;
+    margin-top: 0;
+    padding-top: 21.44px;
+}
+
+body{
+    margin: 0;
+    background-color: bisque;
+   
+}
+
+header{
+    background-color: lightgray;
+}
+
+a{
+    text-decoration:none;
+}
+
+header,main,footer{
+    padding: 0 3%;
+}
+
+main,footer{
+    background-color: none;
+}
+
+nav {
+    background-color: #333;
+    padding: 10px;
+}
+
+
+nav ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-evenly; /* Distribute space between items */
+    align-items: center; /* Align items vertically */
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Hover effect for links */
+nav ul li a:hover {
+    background-color: #575757;
+    border-radius: 5px;
+}
+
+.passport{
+   width: 500px;
+   
+}
+
+.center{
+    display:block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.info img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.btn-return{
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.btn-return ul{
+    list-style-type: none;
+}
+

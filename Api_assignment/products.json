@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Mouse wire",
+    "price": 25,
+    "size": "m"
+  },
+  {
+    "id": 2,
+    "name": "Ergonomic Wired Mouse",
+    "price": 12.99,
+    "size": "m"
+  },
+  {
+    "id": 4,
+    "name": "Pizza",
+    "price": 15,
+    "size": "l"
+  }
+]
